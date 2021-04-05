@@ -126,6 +126,13 @@ Email received:
     }
   ```
 
+- Do you wanna run this project?
+  - clone this project: 
+  ```git clone https://github.com/henricker/NLW04-Trilha-NodeJs-Backend.git ```
+  - Open the project via terminal and type: ```yarn```
+  - Also at the terminal type: ``` yarn server:dev ```
+  - To run migrations, open other terminal and type: ``` yarn typeorm migration:run```
+
 - This is my project, any question call me in my email or linkedin :)
 - I am open to criticism and suggestions on how to improve my project.
 
